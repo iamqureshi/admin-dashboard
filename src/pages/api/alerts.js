@@ -2,7 +2,7 @@ import { MongoClient } from "mongodb";
 
 const handler = async (req, res) => {
   // Connection URL
-  const url ="mongodb+srv://info:prism%40123@cluster1.pqikgmr.mongodb.net/";
+ const url = process.env.NEXT_PUBLIC_MONGODB_URL;
 
   // Database Name
   const dbName = process.env.NEXT_PUBLIC_DATABASE_NAME;

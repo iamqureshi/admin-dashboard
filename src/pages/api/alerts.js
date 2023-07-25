@@ -16,7 +16,6 @@ const handler = async (req, res) => {
   const db = client.db(dbName);
 
   const collection = db.collection("alerts");
-
   const reqBody = req.body;
 
   const totalCount = await collection.countDocuments();

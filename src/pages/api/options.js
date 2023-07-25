@@ -22,6 +22,7 @@ const handler = async (req, res) => {
   const totalCount = await collection.countDocuments({});
   const documents = await collection
     .find({})
+    .sort({tradeTime:-1})
     .skip(reqBody.data.offset * 20)
     .limit(20)
     .toArray();

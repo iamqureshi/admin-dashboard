@@ -1,5 +1,6 @@
 {
   "name": "admin-dashboard-nextjs",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "scripts": {

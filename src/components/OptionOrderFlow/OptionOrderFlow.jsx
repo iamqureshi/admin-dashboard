@@ -2,14 +2,14 @@ import OptionOrderFlowTable from "../Tables/OptionOrderFlowTable";
 import useOptionOrderFlow from "./OptionOrderFlow.hooks";
 
 export default function OptionOrderFlow() {
-  const { optionTableLoading, options } = useOptionOrderFlow();
+  const { optionTableLoading, options, setOptionTableOffset, optionTableOffset , totalCount} = useOptionOrderFlow();
   
   return (
     <>
       <OptionOrderFlowTable
-        // setOptionTableOffset={setOptionTableOffset}
-        // optionTableOffset={optionTableOffset}
-        // totalRecords={totalCount}
+        setOptionTableOffset={setOptionTableOffset}
+        optionTableOffset={optionTableOffset}
+        totalRecords={totalCount}
         loading={optionTableLoading}
         columns={[
           {

@@ -15,8 +15,7 @@ export default function AlertCard() {
     setScrollPosition,
   } = useAlertHook();
 
-  if (alertCardLoading || alerts.length === 0) return <LinearProgress />;
-
+  if (alertCardLoading) return <LinearProgress />;
   return (
     <Card
       ref={containerRef}

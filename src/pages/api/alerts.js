@@ -6,7 +6,6 @@ const handler = async (req, res) => {
 
   // Database Name
   const dbName = process.env.NEXT_PUBLIC_DATABASE_NAME;
-
   //changes
   // Create a new MongoClient
   const client = new MongoClient(url);

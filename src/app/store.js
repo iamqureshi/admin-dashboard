@@ -1,7 +1,7 @@
 import { configureStore } from "@reduxjs/toolkit";
 import searchFunctionalitySlice from "./features/searcFunctionality";
 
-export default configureStore({
+export default configureStore({ 
   reducer: {  
     searchReducer: searchFunctionalitySlice,
   },

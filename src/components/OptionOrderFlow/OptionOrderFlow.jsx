@@ -7,9 +7,9 @@ export default function OptionOrderFlow() {
   return (
     <>
       <OptionOrderFlowTable
-{/*         setOptionTableOffset={setOptionTableOffset}
-        optionTableOffset={optionTableOffset}
-        totalRecords={totalCount} */}
+//         setOptionTableOffset={setOptionTableOffset}
+  //      optionTableOffset={optionTableOffset}
+    //    totalRecords={totalCount} 
         loading={optionTableLoading}
         columns={[
           {

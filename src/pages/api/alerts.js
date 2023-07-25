@@ -9,7 +9,7 @@ const handler = async (req, res) => {
   //changes
   // Create a new MongoClient
   const client = new MongoClient(url);
-
+ 
   // Connect to the MongoDB server
   await client.connect();
 

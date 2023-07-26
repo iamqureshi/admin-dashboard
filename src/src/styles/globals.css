@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.chartjs-tooltip {
+  display: none !important;
+}
+
+.react-grid-item > .react-resizable-handle::after {
+  border-right: 2px solid white !important;
+  border-bottom: 2px solid white !important;
+}
+.css-1jlfsom-MuiTable-root {
+  min-width: auto !important;
+}
+
+.css-194396g-MuiButtonBase-root-MuiListItemButton-root.Mui-selected {
+  background-color: rgba(135, 207, 235, 0.141) !important;
+}
+
+.css-1xav0lm-MuiButtonBase-root-MuiListItemButton-root.Mui-selected {
+  background-color: rgba(135, 207, 235, 0.141) !important;
+}
+
+body {
+  background-color: rgb(21, 20, 20);
+  color: white;
+}
+.MuiTableCell-root {
+  border-bottom: #00374e solid 1px;
+}
+
+.css-qai666-MuiTable-root {
+  min-width: auto !important;
+}
+.MuiTableHead-root {
+  background-color: #002235;
+}
+
+.MuiTableCell-root {
+  padding: 10px 16px;
+  font-weight: 500;
+}
+.MuiChip-root,
+.css-gjv9n6-MuiChip-root {
+  font-size: 0.75em;
+  line-height: 1;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 5px 10px !important;
+}
+.MuiChip-root span,
+.css-gjv9n6-MuiChip-root span {
+  padding: 0px !important;
+}
+.css-1lymaxv-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+  border-color: #353535 !important;
+}
+.css-1lymaxv-MuiDataGrid-root {
+  border-color: #353535 !important;
+}
+
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+  color: white !important;
+}
+
+.css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
+  color: white !important;
+}
+
+.MuiSvgIcon-root {
+  color: white !important;
+}
+
+.MuiSvgIcon-fontSizeMedium {
+  color: white !important;
+}
+
+.MuiTableSortLabel-root > svg {
+  color: white !important;
+}
+
+::-webkit-scrollbar {
+  width: 20px !important;
+}
+
+/* Background color of the scrollbar track */
+::-webkit-scrollbar-track {
+  background-color: #082835 !important;
+}
+.css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root {
+  color: white !important;
+}
+
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border: 1px solid transparent !important;
+}
+.MuiOutlinedInput-root {
+  border-radius: 10px !important;
+  padding: 0.5 !important;
+}
+
+/* Color of the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #0d3345 !important;
+  border-radius: 15px !important;
+}

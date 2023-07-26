@@ -1,0 +1,2322 @@
+[{
+  "_id": {
+    "$oid": "64ac2b837d270fcf0cdc1d18"
+  },
+  "time": {
+    "$date": "2023-07-10T16:02:07.399Z"
+  },
+  "referencePriceInCents": 9051,
+  "optionPriceInCents": 600,
+  "signal": "BULLISH",
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "AKAM",
+    "expirationDate": "2025-01-17",
+    "strikePriceInCents": 11500,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ac3f8b7d270fcf0cdc3bba"
+  },
+  "time": {
+    "$date": "2023-07-10T17:27:34.488Z"
+  },
+  "signal": "BEARISH",
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "AMD",
+    "expirationDate": "2025-01-17",
+    "strikePriceInCents": 11500,
+    "contractType": "PUT"
+  },
+  "referencePriceInCents": 11269,
+  "optionPriceInCents": 2195
+},
+{
+  "_id": {
+    "$oid": "64ac429f7d270fcf0cdc3fef"
+  },
+  "time": {
+    "$date": "2023-07-10T17:40:39.246Z"
+  },
+  "referencePriceInCents": 11651,
+  "contractKey": {
+    "symbol": "GOOGL",
+    "expirationDate": "2023-08-04",
+    "strikePriceInCents": 12700,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "TURBO",
+  "optionPriceInCents": 108
+},
+{
+  "_id": {
+    "$oid": "64ac445d7d270fcf0cdc4165"
+  },
+  "time": {
+    "$date": "2023-07-10T17:48:02.250Z"
+  },
+  "referencePriceInCents": 2542,
+  "contractKey": {
+    "symbol": "RIVN",
+    "expirationDate": "2023-08-04",
+    "strikePriceInCents": 2700,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "MOMENTUM",
+  "optionPriceInCents": 345
+},
+{
+  "_id": {
+    "$oid": "64ac44627d270fcf0cdc4168"
+  },
+  "time": {
+    "$date": "2023-07-10T17:48:02.250Z"
+  },
+  "referencePriceInCents": 2542,
+  "contractKey": {
+    "symbol": "RIVN",
+    "expirationDate": "2023-08-04",
+    "strikePriceInCents": 2700,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "TURBO",
+  "optionPriceInCents": 345
+},
+{
+  "_id": {
+    "$oid": "64ac4ca07d270fcf0cdc4a85"
+  },
+  "time": {
+    "$date": "2023-07-10T18:23:18.840Z"
+  },
+  "referencePriceInCents": 4516,
+  "contractKey": {
+    "symbol": "MGM",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 4100,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "WHALE",
+  "optionPriceInCents": 504
+},
+{
+  "_id": {
+    "$oid": "64ac4ce87d270fcf0cdc4b25"
+  },
+  "time": {
+    "$date": "2023-07-10T18:24:33.213Z"
+  },
+  "referencePriceInCents": 2286,
+  "contractKey": {
+    "symbol": "XP",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 2250,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "BARGAIN",
+  "optionPriceInCents": 35
+},
+{
+  "_id": {
+    "$oid": "64ac4ceb7d270fcf0cdc4b27"
+  },
+  "time": {
+    "$date": "2023-07-10T18:24:33.213Z"
+  },
+  "referencePriceInCents": 2286,
+  "contractKey": {
+    "symbol": "XP",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 2250,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "TURBO",
+  "optionPriceInCents": 35
+},
+{
+  "_id": {
+    "$oid": "64ac50f27d270fcf0cdc50c1"
+  },
+  "time": {
+    "$date": "2023-07-10T18:41:44.691Z"
+  },
+  "referencePriceInCents": 716,
+  "contractKey": {
+    "symbol": "DISH",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 900,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "TURBO",
+  "optionPriceInCents": 40
+},
+{
+  "_id": {
+    "$oid": "64ac52477d270fcf0cdc5249"
+  },
+  "time": {
+    "$date": "2023-07-10T18:47:27.703Z"
+  },
+  "referencePriceInCents": 7951,
+  "contractKey": {
+    "symbol": "COIN",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 8700,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "BARGAIN",
+  "optionPriceInCents": 66
+},
+{
+  "_id": {
+    "$oid": "64ac524b7d270fcf0cdc524a"
+  },
+  "time": {
+    "$date": "2023-07-10T18:47:27.703Z"
+  },
+  "referencePriceInCents": 7951,
+  "contractKey": {
+    "symbol": "COIN",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 8700,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "MOMENTUM",
+  "optionPriceInCents": 66
+},
+{
+  "_id": {
+    "$oid": "64ac52507d270fcf0cdc524d"
+  },
+  "time": {
+    "$date": "2023-07-10T18:47:27.703Z"
+  },
+  "referencePriceInCents": 7951,
+  "contractKey": {
+    "symbol": "COIN",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 8700,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "TURBO",
+  "optionPriceInCents": 66
+},
+{
+  "_id": {
+    "$oid": "64ac57037d270fcf0cdc57c3"
+  },
+  "time": {
+    "$date": "2023-07-10T19:07:39.852Z"
+  },
+  "referencePriceInCents": 2290,
+  "contractKey": {
+    "symbol": "XP",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 2250,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "MOMENTUM",
+  "optionPriceInCents": 35
+},
+{
+  "_id": {
+    "$oid": "64ac5ba87d270fcf0cdc5f08"
+  },
+  "time": {
+    "$date": "2023-07-10T19:27:29.654Z"
+  },
+  "referencePriceInCents": 9035,
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 15000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "WHALE",
+  "optionPriceInCents": 5970
+},
+{
+  "_id": {
+    "$oid": "64ac5bb67d270fcf0cdc5f29"
+  },
+  "time": {
+    "$date": "2023-07-10T19:27:42.606Z"
+  },
+  "referencePriceInCents": 5790,
+  "contractKey": {
+    "symbol": "SE",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 19000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "WHALE",
+  "optionPriceInCents": 13210
+},
+{
+  "_id": {
+    "$oid": "64ac5bbe7d270fcf0cdc5f39"
+  },
+  "time": {
+    "$date": "2023-07-10T19:27:49.199Z"
+  },
+  "referencePriceInCents": 12286,
+  "contractKey": {
+    "symbol": "MRNA",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 23000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "WHALE",
+  "optionPriceInCents": 10795
+},
+{
+  "_id": {
+    "$oid": "64ac5bc27d270fcf0cdc5f3c"
+  },
+  "time": {
+    "$date": "2023-07-10T19:27:49.199Z"
+  },
+  "referencePriceInCents": 12286,
+  "contractKey": {
+    "symbol": "MRNA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 19000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "WHALE",
+  "optionPriceInCents": 6730
+},
+{
+  "_id": {
+    "$oid": "64ac5bc67d270fcf0cdc5f3e"
+  },
+  "time": {
+    "$date": "2023-07-10T19:27:49.199Z"
+  },
+  "referencePriceInCents": 12286,
+  "contractKey": {
+    "symbol": "MRNA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 20000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "WHALE",
+  "optionPriceInCents": 7710
+},
+{
+  "_id": {
+    "$oid": "64ac5dae7d270fcf0cdc6202"
+  },
+  "time": {
+    "$date": "2023-07-10T19:36:05.757Z"
+  },
+  "referencePriceInCents": 1467,
+  "contractKey": {
+    "symbol": "AFRM",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 1250,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "type": "WHALE",
+  "optionPriceInCents": 289
+},
+{
+  "_id": {
+    "$oid": "64ac60e67d270fcf0cdc67be"
+  },
+  "time": {
+    "$date": "2023-07-10T19:49:44.932Z"
+  },
+  "referencePriceInCents": 1028,
+  "contractKey": {
+    "symbol": "DB",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 800,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "type": "DITTO",
+  "optionPriceInCents": 30
+},
+{
+  "_id": {
+    "$oid": "64aeab6f7d270fcf0cdd4a4b"
+  },
+  "time": {
+    "$date": "2023-07-12T13:32:02.499Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 105,
+  "referencePriceInCents": 18960,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "AAPL",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 19000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeab997d270fcf0cdd4bed"
+  },
+  "time": {
+    "$date": "2023-07-12T13:32:40.840Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 273,
+  "referencePriceInCents": 27424,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 28000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeabba7d270fcf0cdd4d4c"
+  },
+  "time": {
+    "$date": "2023-07-12T13:33:15.636Z"
+  },
+  "type": "DITTO",
+  "optionPriceInCents": 305,
+  "referencePriceInCents": 13095,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "AMZN",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 14000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeabc27d270fcf0cdd4d6c"
+  },
+  "time": {
+    "$date": "2023-07-12T13:33:21.286Z"
+  },
+  "type": "DITTO",
+  "optionPriceInCents": 261,
+  "referencePriceInCents": 27477,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 28000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeabf07d270fcf0cdd4f37"
+  },
+  "time": {
+    "$date": "2023-07-12T13:34:18.133Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 132,
+  "referencePriceInCents": 19015,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "AAPL",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 19000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeac487d270fcf0cdd51a4"
+  },
+  "time": {
+    "$date": "2023-07-12T13:35:49.209Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 304,
+  "referencePriceInCents": 43251,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "NVDA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 44000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeaf647d270fcf0cdd6507"
+  },
+  "time": {
+    "$date": "2023-07-12T13:49:06.283Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 40,
+  "referencePriceInCents": 1002,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "QS",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 1100,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb3fb7d270fcf0cdd7a9f"
+  },
+  "time": {
+    "$date": "2023-07-12T14:08:45.185Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 60,
+  "referencePriceInCents": 2949,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "BAC",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 3000,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb3ff7d270fcf0cdd7aa1"
+  },
+  "time": {
+    "$date": "2023-07-12T14:08:45.185Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 60,
+  "referencePriceInCents": 2949,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "BAC",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 3000,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb5067d270fcf0cdd7eb2"
+  },
+  "time": {
+    "$date": "2023-07-12T14:13:13.453Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 315,
+  "referencePriceInCents": 1684,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "PLTR",
+    "expirationDate": "2024-02-16",
+    "strikePriceInCents": 1700,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb5747d270fcf0cdd800a"
+  },
+  "time": {
+    "$date": "2023-07-12T14:15:05.189Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 280,
+  "referencePriceInCents": 13042,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "AMZN",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 14000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb6ab7d270fcf0cdd8463"
+  },
+  "time": {
+    "$date": "2023-07-12T14:20:18.303Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 37,
+  "referencePriceInCents": 8681,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "MS",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 8600,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb6af7d270fcf0cdd8464"
+  },
+  "time": {
+    "$date": "2023-07-12T14:20:18.303Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 37,
+  "referencePriceInCents": 8681,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "MS",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 8600,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb8e77d270fcf0cdd8cae"
+  },
+  "time": {
+    "$date": "2023-07-12T14:29:50.521Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 110,
+  "referencePriceInCents": 14218,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "ZS",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 14600,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aeb9227d270fcf0cdd8d4c"
+  },
+  "time": {
+    "$date": "2023-07-12T14:30:46.465Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 640,
+  "referencePriceInCents": 7658,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "STT",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 7750,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebb6e7d270fcf0cdd957f"
+  },
+  "time": {
+    "$date": "2023-07-12T14:40:36.382Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 52,
+  "referencePriceInCents": 7421,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "PDD",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 7600,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebc817d270fcf0cdd994f"
+  },
+  "time": {
+    "$date": "2023-07-12T14:45:13.522Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 115,
+  "referencePriceInCents": 2689,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "LNC",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 2000,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebe637d270fcf0cdd9e31"
+  },
+  "time": {
+    "$date": "2023-07-12T14:53:15.909Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 30,
+  "referencePriceInCents": 10815,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "NKE",
+    "expirationDate": "2023-08-04",
+    "strikePriceInCents": 9900,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebe667d270fcf0cdd9e32"
+  },
+  "time": {
+    "$date": "2023-07-12T14:53:15.909Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 30,
+  "referencePriceInCents": 10815,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "NKE",
+    "expirationDate": "2023-08-04",
+    "strikePriceInCents": 9900,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebf087d270fcf0cdda259"
+  },
+  "time": {
+    "$date": "2023-07-12T14:55:56.844Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 25,
+  "referencePriceInCents": 2370,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "TOST",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 3000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebfb27d270fcf0cdda54d"
+  },
+  "time": {
+    "$date": "2023-07-12T14:58:44.942Z"
+  },
+  "type": "DITTO",
+  "optionPriceInCents": 103,
+  "referencePriceInCents": 32917,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "GS",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 35000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aebfb67d270fcf0cdda554"
+  },
+  "time": {
+    "$date": "2023-07-12T14:58:44.942Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 103,
+  "referencePriceInCents": 32917,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "GS",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 35000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec41e7d270fcf0cddb199"
+  },
+  "time": {
+    "$date": "2023-07-12T15:17:43.245Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 86,
+  "referencePriceInCents": 9397,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 9300,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec4227d270fcf0cddb19a"
+  },
+  "time": {
+    "$date": "2023-07-12T15:17:43.245Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 86,
+  "referencePriceInCents": 9397,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 9300,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec5787d270fcf0cddb428"
+  },
+  "time": {
+    "$date": "2023-07-12T15:23:29.768Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 120,
+  "referencePriceInCents": 32959,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "GS",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 35000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec7607d270fcf0cddb75e"
+  },
+  "time": {
+    "$date": "2023-07-12T15:31:30.633Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 218,
+  "referencePriceInCents": 3928,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 3900,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec7c67d270fcf0cddb806"
+  },
+  "time": {
+    "$date": "2023-07-12T15:33:18.019Z"
+  },
+  "type": "MOMENTUM",
+  "optionPriceInCents": 140,
+  "referencePriceInCents": 189,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "BITF",
+    "expirationDate": "2024-02-16",
+    "strikePriceInCents": 300,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec7c97d270fcf0cddb807"
+  },
+  "time": {
+    "$date": "2023-07-12T15:33:18.019Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 140,
+  "referencePriceInCents": 189,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "BITF",
+    "expirationDate": "2024-02-16",
+    "strikePriceInCents": 300,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec8697d270fcf0cddba01"
+  },
+  "time": {
+    "$date": "2023-07-12T15:35:54.583Z"
+  },
+  "type": "MOMENTUM",
+  "optionPriceInCents": 110,
+  "referencePriceInCents": 1786,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "RIOT",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec86a7d270fcf0cddba02"
+  },
+  "time": {
+    "$date": "2023-07-12T15:35:54.583Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 110,
+  "referencePriceInCents": 1786,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "RIOT",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aec8ca7d270fcf0cddbab2"
+  },
+  "time": {
+    "$date": "2023-07-12T15:37:37.365Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 130,
+  "referencePriceInCents": 2688,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "LNC",
+    "expirationDate": "2024-06-21",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aecacc7d270fcf0cddc5ca"
+  },
+  "time": {
+    "$date": "2023-07-12T15:46:10.981Z"
+  },
+  "optionPriceInCents": 5765,
+  "signal": "BEARISH",
+  "referencePriceInCents": 43313,
+  "contractKey": {
+    "symbol": "NVDA",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 44500,
+    "contractType": "PUT"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aecd437d270fcf0cddcc02"
+  },
+  "time": {
+    "$date": "2023-07-12T15:56:32.797Z"
+  },
+  "optionPriceInCents": 250,
+  "signal": "BEARISH",
+  "referencePriceInCents": 1718,
+  "contractKey": {
+    "symbol": "MARA",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 1700,
+    "contractType": "PUT"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aecdc77d270fcf0cddcd5e"
+  },
+  "time": {
+    "$date": "2023-07-12T15:58:55.393Z"
+  },
+  "optionPriceInCents": 315,
+  "signal": "BEARISH",
+  "referencePriceInCents": 1717,
+  "contractKey": {
+    "symbol": "MARA",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 1800,
+    "contractType": "PUT"
+  },
+  "type": "MOMENTUM"
+},
+{
+  "_id": {
+    "$oid": "64aecdcc7d270fcf0cddcd61"
+  },
+  "time": {
+    "$date": "2023-07-12T15:58:55.393Z"
+  },
+  "optionPriceInCents": 315,
+  "signal": "BEARISH",
+  "referencePriceInCents": 1717,
+  "contractKey": {
+    "symbol": "MARA",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 1800,
+    "contractType": "PUT"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aecf067d270fcf0cddd048"
+  },
+  "time": {
+    "$date": "2023-07-12T16:04:11.902Z"
+  },
+  "optionPriceInCents": 93,
+  "signal": "BEARISH",
+  "referencePriceInCents": 9361,
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 9300,
+    "contractType": "PUT"
+  },
+  "type": "MOMENTUM"
+},
+{
+  "_id": {
+    "$oid": "64aecf8e7d270fcf0cddd0fb"
+  },
+  "time": {
+    "$date": "2023-07-12T16:06:26.548Z"
+  },
+  "optionPriceInCents": 95,
+  "signal": "BULLISH",
+  "referencePriceInCents": 13848,
+  "contractKey": {
+    "symbol": "ZS",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 14300,
+    "contractType": "CALL"
+  },
+  "type": "BARGAIN"
+},
+{
+  "_id": {
+    "$oid": "64aed05b7d270fcf0cddd22d"
+  },
+  "time": {
+    "$date": "2023-07-12T16:09:49.138Z"
+  },
+  "optionPriceInCents": 3785,
+  "signal": "BEARISH",
+  "referencePriceInCents": 27219,
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 31000,
+    "contractType": "PUT"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aed05f7d270fcf0cddd234"
+  },
+  "time": {
+    "$date": "2023-07-12T16:09:49.138Z"
+  },
+  "optionPriceInCents": 3285,
+  "signal": "BEARISH",
+  "referencePriceInCents": 27219,
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 30500,
+    "contractType": "PUT"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aed1197d270fcf0cddd3d5"
+  },
+  "time": {
+    "$date": "2023-07-12T16:13:06.173Z"
+  },
+  "optionPriceInCents": 53,
+  "signal": "BULLISH",
+  "referencePriceInCents": 1735,
+  "contractKey": {
+    "symbol": "RIOT",
+    "expirationDate": "2023-07-28",
+    "strikePriceInCents": 2200,
+    "contractType": "CALL"
+  },
+  "type": "BARGAIN"
+},
+{
+  "_id": {
+    "$oid": "64aed1327d270fcf0cddd3f2"
+  },
+  "time": {
+    "$date": "2023-07-12T16:13:28.723Z"
+  },
+  "optionPriceInCents": 75,
+  "signal": "BEARISH",
+  "referencePriceInCents": 13894,
+  "contractKey": {
+    "symbol": "ZS",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 13400,
+    "contractType": "PUT"
+  },
+  "type": "BARGAIN"
+},
+{
+  "_id": {
+    "$oid": "64aed4b77d270fcf0cddd9f1"
+  },
+  "time": {
+    "$date": "2023-07-12T16:28:31.129Z"
+  },
+  "optionPriceInCents": 4220,
+  "signal": "BEARISH",
+  "referencePriceInCents": 16776,
+  "contractKey": {
+    "symbol": "DG",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 21000,
+    "contractType": "PUT"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aed5f57d270fcf0cdddc28"
+  },
+  "time": {
+    "$date": "2023-07-12T16:33:48.123Z"
+  },
+  "optionPriceInCents": 71,
+  "signal": "BULLISH",
+  "referencePriceInCents": 1682,
+  "contractKey": {
+    "symbol": "BILI",
+    "expirationDate": "2023-08-11",
+    "strikePriceInCents": 1850,
+    "contractType": "CALL"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aed7b47d270fcf0cdddf71"
+  },
+  "time": {
+    "$date": "2023-07-12T16:41:16.227Z"
+  },
+  "optionPriceInCents": 145,
+  "signal": "BULLISH",
+  "referencePriceInCents": 1750,
+  "contractKey": {
+    "symbol": "GOLD",
+    "expirationDate": "2024-06-21",
+    "strikePriceInCents": 2000,
+    "contractType": "CALL"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aedac87d270fcf0cdde4a9"
+  },
+  "time": {
+    "$date": "2023-07-12T16:54:19.125Z"
+  },
+  "type": "MOMENTUM",
+  "optionPriceInCents": 22,
+  "referencePriceInCents": 3731,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "APA",
+    "expirationDate": "2023-07-28",
+    "strikePriceInCents": 4100,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedacc7d270fcf0cdde4ab"
+  },
+  "time": {
+    "$date": "2023-07-12T16:54:19.125Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 22,
+  "referencePriceInCents": 3731,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "APA",
+    "expirationDate": "2023-07-28",
+    "strikePriceInCents": 4100,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedac47d270fcf0cdde4a8"
+  },
+  "time": {
+    "$date": "2023-07-12T16:54:19.125Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 22,
+  "referencePriceInCents": 3731,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "APA",
+    "expirationDate": "2023-07-28",
+    "strikePriceInCents": 4100,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb537d270fcf0cdde5b5"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:40.818Z"
+  },
+  "type": "MOMENTUM",
+  "optionPriceInCents": 239,
+  "referencePriceInCents": 38894,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "DPZ",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 40000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb577d270fcf0cdde5b8"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:40.818Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 239,
+  "referencePriceInCents": 38894,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "DPZ",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 40000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb777d270fcf0cdde5f2"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:59.122Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 3435,
+  "referencePriceInCents": 27317,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 30750,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb7a7d270fcf0cdde5f3"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:59.122Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 3185,
+  "referencePriceInCents": 27317,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 30500,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb747d270fcf0cdde5ee"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:59.122Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 8185,
+  "referencePriceInCents": 27317,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 35500,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb727d270fcf0cdde5ed"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:59.122Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 8685,
+  "referencePriceInCents": 27317,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 36000,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb6c7d270fcf0cdde5eb"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:59.122Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 9185,
+  "referencePriceInCents": 27317,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 36500,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedb697d270fcf0cdde5e9"
+  },
+  "time": {
+    "$date": "2023-07-12T16:56:59.122Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 9686,
+  "referencePriceInCents": 27317,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "TSLA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 37000,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedc0d7d270fcf0cdde6f9"
+  },
+  "time": {
+    "$date": "2023-07-12T16:59:49.654Z"
+  },
+  "type": "WHALE",
+  "optionPriceInCents": 5200,
+  "referencePriceInCents": 16796,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "DG",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 22000,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aedcc87d270fcf0cdde7f1"
+  },
+  "time": {
+    "$date": "2023-07-12T17:02:57.081Z"
+  },
+  "type": "BARGAIN",
+  "optionPriceInCents": 50,
+  "referencePriceInCents": 13757,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "ZS",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 14400,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aede097d270fcf0cdde9b8"
+  },
+  "time": {
+    "$date": "2023-07-12T17:08:12.956Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 155,
+  "referencePriceInCents": 1188,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "CRK",
+    "expirationDate": "2023-09-15",
+    "strikePriceInCents": 1100,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aede6b7d270fcf0cddea20"
+  },
+  "time": {
+    "$date": "2023-07-12T17:09:52.760Z"
+  },
+  "type": "MOMENTUM",
+  "optionPriceInCents": 112,
+  "referencePriceInCents": 23327,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "PANW",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 22750,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aede6f7d270fcf0cddea21"
+  },
+  "time": {
+    "$date": "2023-07-12T17:09:52.760Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 112,
+  "referencePriceInCents": 23327,
+  "signal": "BEARISH",
+  "contractKey": {
+    "symbol": "PANW",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 22750,
+    "contractType": "PUT"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aee25c7d270fcf0cddefc0"
+  },
+  "time": {
+    "$date": "2023-07-12T17:26:44.943Z"
+  },
+  "type": "DITTO",
+  "optionPriceInCents": 85,
+  "referencePriceInCents": 9484,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 10100,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aee5587d270fcf0cddf4cf"
+  },
+  "time": {
+    "$date": "2023-07-12T17:39:27.100Z"
+  },
+  "type": "LIGHTNING",
+  "optionPriceInCents": 281,
+  "referencePriceInCents": 13043,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "AMZN",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 14000,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aee7627d270fcf0cddf974"
+  },
+  "time": {
+    "$date": "2023-07-12T17:48:08.991Z"
+  },
+  "type": "TURBO",
+  "optionPriceInCents": 70,
+  "referencePriceInCents": 11214,
+  "signal": "BULLISH",
+  "contractKey": {
+    "symbol": "ROST",
+    "expirationDate": "2023-08-11",
+    "strikePriceInCents": 11700,
+    "contractType": "CALL"
+  }
+},
+{
+  "_id": {
+    "$oid": "64aee9137d270fcf0cddfbd8"
+  },
+  "time": {
+    "$date": "2023-07-12T17:55:19.762Z"
+  },
+  "optionPriceInCents": 363,
+  "signal": "BULLISH",
+  "referencePriceInCents": 4548,
+  "contractKey": {
+    "symbol": "FUTU",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 5500,
+    "contractType": "CALL"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aeea1c7d270fcf0cddfe9a"
+  },
+  "time": {
+    "$date": "2023-07-12T17:59:43.233Z"
+  },
+  "optionPriceInCents": 329,
+  "signal": "BULLISH",
+  "referencePriceInCents": 4270,
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 4250,
+    "contractType": "CALL"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aeea567d270fcf0cddff20"
+  },
+  "time": {
+    "$date": "2023-07-12T18:00:43.781Z"
+  },
+  "optionPriceInCents": 20,
+  "signal": "BEARISH",
+  "referencePriceInCents": 1743,
+  "contractKey": {
+    "symbol": "GOLD",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  },
+  "type": "BARGAIN"
+},
+{
+  "_id": {
+    "$oid": "64aeeb907d270fcf0cde0163"
+  },
+  "time": {
+    "$date": "2023-07-12T18:05:57.763Z"
+  },
+  "optionPriceInCents": 315,
+  "signal": "BULLISH",
+  "referencePriceInCents": 4170,
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 4150,
+    "contractType": "CALL"
+  },
+  "type": "MOMENTUM"
+},
+{
+  "_id": {
+    "$oid": "64aeeb937d270fcf0cde0164"
+  },
+  "time": {
+    "$date": "2023-07-12T18:05:57.763Z"
+  },
+  "optionPriceInCents": 315,
+  "signal": "BULLISH",
+  "referencePriceInCents": 4170,
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 4150,
+    "contractType": "CALL"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aeed317d270fcf0cde03bc"
+  },
+  "time": {
+    "$date": "2023-07-12T18:12:57.725Z"
+  },
+  "optionPriceInCents": 49,
+  "signal": "BEARISH",
+  "referencePriceInCents": 1886,
+  "contractKey": {
+    "symbol": "HTZ",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aeee1e7d270fcf0cde0531"
+  },
+  "time": {
+    "$date": "2023-07-12T18:16:53.397Z"
+  },
+  "optionPriceInCents": 19,
+  "signal": "BULLISH",
+  "referencePriceInCents": 3068,
+  "contractKey": {
+    "symbol": "DKNG",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 3200,
+    "contractType": "CALL"
+  },
+  "type": "BARGAIN"
+},
+{
+  "_id": {
+    "$oid": "64aeeeac7d270fcf0cde0610"
+  },
+  "time": {
+    "$date": "2023-07-12T18:19:11.924Z"
+  },
+  "optionPriceInCents": 41,
+  "signal": "BULLISH",
+  "referencePriceInCents": 4161,
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 5500,
+    "contractType": "CALL"
+  },
+  "type": "BARGAIN"
+},
+{
+  "_id": {
+    "$oid": "64aef0277d270fcf0cde07d7"
+  },
+  "time": {
+    "$date": "2023-07-12T18:25:32.815Z"
+  },
+  "optionPriceInCents": 530,
+  "signal": "BEARISH",
+  "referencePriceInCents": 88825,
+  "contractKey": {
+    "symbol": "AVGO",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 88500,
+    "contractType": "PUT"
+  },
+  "type": "MOMENTUM"
+},
+{
+  "_id": {
+    "$oid": "64aef0287d270fcf0cde07d8"
+  },
+  "time": {
+    "$date": "2023-07-12T18:25:32.815Z"
+  },
+  "optionPriceInCents": 530,
+  "signal": "BEARISH",
+  "referencePriceInCents": 88825,
+  "contractKey": {
+    "symbol": "AVGO",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 88500,
+    "contractType": "PUT"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aef4367d270fcf0cde0e1d"
+  },
+  "time": {
+    "$date": "2023-07-12T18:42:52.134Z"
+  },
+  "optionPriceInCents": 125,
+  "signal": "BULLISH",
+  "referencePriceInCents": 3319,
+  "contractKey": {
+    "symbol": "IEP",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 3350,
+    "contractType": "CALL"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aef5b97d270fcf0cde114e"
+  },
+  "time": {
+    "$date": "2023-07-12T18:49:20.694Z"
+  },
+  "optionPriceInCents": 580,
+  "signal": "BULLISH",
+  "referencePriceInCents": 6378,
+  "contractKey": {
+    "symbol": "CNC",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 6500,
+    "contractType": "CALL"
+  },
+  "type": "WHALE"
+},
+{
+  "_id": {
+    "$oid": "64aef6617d270fcf0cde12ce"
+  },
+  "time": {
+    "$date": "2023-07-12T18:52:09.464Z"
+  },
+  "optionPriceInCents": 215,
+  "signal": "BEARISH",
+  "referencePriceInCents": 4093,
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 4000,
+    "contractType": "PUT"
+  },
+  "type": "MOMENTUM"
+},
+{
+  "_id": {
+    "$oid": "64aef6677d270fcf0cde12d1"
+  },
+  "time": {
+    "$date": "2023-07-12T18:52:09.464Z"
+  },
+  "optionPriceInCents": 215,
+  "signal": "BEARISH",
+  "referencePriceInCents": 4093,
+  "contractKey": {
+    "symbol": "CVNA",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 4000,
+    "contractType": "PUT"
+  },
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64aef7397d270fcf0cde1476"
+  },
+  "time": {
+    "$date": "2023-07-12T18:55:38.542Z"
+  },
+  "type": "TURBO",
+  "contractKey": {
+    "symbol": "LNC",
+    "expirationDate": "2024-06-21",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 2635,
+  "optionPriceInCents": 144
+},
+{
+  "_id": {
+    "$oid": "64aef7327d270fcf0cde1474"
+  },
+  "time": {
+    "$date": "2023-07-12T18:55:38.542Z"
+  },
+  "type": "MOMENTUM",
+  "contractKey": {
+    "symbol": "LNC",
+    "expirationDate": "2024-06-21",
+    "strikePriceInCents": 1750,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 2635,
+  "optionPriceInCents": 144
+},
+{
+  "_id": {
+    "$oid": "64aef7797d270fcf0cde154e"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:49.644Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "SE",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 18000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 6109,
+  "optionPriceInCents": 11890
+},
+{
+  "_id": {
+    "$oid": "64aef77c7d270fcf0cde1550"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:49.644Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "SE",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 13000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 6109,
+  "optionPriceInCents": 6890
+},
+{
+  "_id": {
+    "$oid": "64aef7847d270fcf0cde1562"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:54.451Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "PYPL",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 16000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 7087,
+  "optionPriceInCents": 8915
+},
+{
+  "_id": {
+    "$oid": "64aef7887d270fcf0cde1565"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:54.451Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "PYPL",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 14000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 7087,
+  "optionPriceInCents": 6915
+},
+{
+  "_id": {
+    "$oid": "64aef78b7d270fcf0cde1566"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:54.451Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "PYPL",
+    "expirationDate": "2023-09-15",
+    "strikePriceInCents": 10500,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 7087,
+  "optionPriceInCents": 3415
+},
+{
+  "_id": {
+    "$oid": "64aef7917d270fcf0cde1579"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:59.456Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "PDD",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 9000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 7554,
+  "optionPriceInCents": 1455
+},
+{
+  "_id": {
+    "$oid": "64aef7947d270fcf0cde157c"
+  },
+  "time": {
+    "$date": "2023-07-12T18:56:59.456Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "PDD",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 14000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 7554,
+  "optionPriceInCents": 6454
+},
+{
+  "_id": {
+    "$oid": "64aef7a17d270fcf0cde15a9"
+  },
+  "time": {
+    "$date": "2023-07-12T18:57:12.139Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 15500,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 9439,
+  "optionPriceInCents": 6065
+},
+{
+  "_id": {
+    "$oid": "64aef7a57d270fcf0cde15ac"
+  },
+  "time": {
+    "$date": "2023-07-12T18:57:12.139Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 15000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 9439,
+  "optionPriceInCents": 5565
+},
+{
+  "_id": {
+    "$oid": "64aef7a87d270fcf0cde15af"
+  },
+  "time": {
+    "$date": "2023-07-12T18:57:12.139Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 12500,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 9439,
+  "optionPriceInCents": 3065
+},
+{
+  "_id": {
+    "$oid": "64aef81d7d270fcf0cde16fc"
+  },
+  "time": {
+    "$date": "2023-07-12T18:59:34.254Z"
+  },
+  "type": "DITTO",
+  "contractKey": {
+    "symbol": "BYND",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 1700,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 1769,
+  "optionPriceInCents": 126
+},
+{
+  "_id": {
+    "$oid": "64aef8ee7d270fcf0cde182d"
+  },
+  "time": {
+    "$date": "2023-07-12T19:03:00.237Z"
+  },
+  "type": "LIGHTNING",
+  "contractKey": {
+    "symbol": "BYND",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 1700,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 1737,
+  "optionPriceInCents": 110
+},
+{
+  "_id": {
+    "$oid": "64aef97b7d270fcf0cde1956"
+  },
+  "time": {
+    "$date": "2023-07-12T19:05:21.156Z"
+  },
+  "type": "LIGHTNING",
+  "contractKey": {
+    "symbol": "BABA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 10100,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 9444,
+  "optionPriceInCents": 74
+},
+{
+  "_id": {
+    "$oid": "64aefdb97d270fcf0cde24cb"
+  },
+  "time": {
+    "$date": "2023-07-12T19:23:09.624Z"
+  },
+  "type": "BARGAIN",
+  "contractKey": {
+    "symbol": "RXRX",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 1000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 1139,
+  "optionPriceInCents": 50
+},
+{
+  "_id": {
+    "$oid": "64aefe147d270fcf0cde26c0"
+  },
+  "time": {
+    "$date": "2023-07-12T19:24:57.871Z"
+  },
+  "type": "TURBO",
+  "contractKey": {
+    "symbol": "LAZR",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 1000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 800,
+  "optionPriceInCents": 208
+},
+{
+  "_id": {
+    "$oid": "64aefe647d270fcf0cde27ae"
+  },
+  "time": {
+    "$date": "2023-07-12T19:26:18.230Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "AMZN",
+    "expirationDate": "2023-09-15",
+    "strikePriceInCents": 14250,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 13033,
+  "optionPriceInCents": 1430
+},
+{
+  "_id": {
+    "$oid": "64af00fb7d270fcf0cde2db3"
+  },
+  "time": {
+    "$date": "2023-07-12T19:37:19.206Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "NET",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 6000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 6414,
+  "optionPriceInCents": 355
+},
+{
+  "_id": {
+    "$oid": "64af01407d270fcf0cde2e85"
+  },
+  "time": {
+    "$date": "2023-07-12T19:38:29.742Z"
+  },
+  "type": "DITTO",
+  "contractKey": {
+    "symbol": "INTC",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 3500,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 3402,
+  "optionPriceInCents": 137
+},
+{
+  "_id": {
+    "$oid": "64af01467d270fcf0cde2e88"
+  },
+  "time": {
+    "$date": "2023-07-12T19:38:29.742Z"
+  },
+  "type": "LIGHTNING",
+  "contractKey": {
+    "symbol": "INTC",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 3500,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 3402,
+  "optionPriceInCents": 137
+},
+{
+  "_id": {
+    "$oid": "64af01f77d270fcf0cde3001"
+  },
+  "time": {
+    "$date": "2023-07-12T19:41:35.406Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "LCID",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 4700,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 721,
+  "optionPriceInCents": 3980
+},
+{
+  "_id": {
+    "$oid": "64af01fb7d270fcf0cde3006"
+  },
+  "time": {
+    "$date": "2023-07-12T19:41:35.406Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "LCID",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 4200,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 721,
+  "optionPriceInCents": 3480
+},
+{
+  "_id": {
+    "$oid": "64af02747d270fcf0cde319b"
+  },
+  "time": {
+    "$date": "2023-07-12T19:43:37.863Z"
+  },
+  "type": "DITTO",
+  "contractKey": {
+    "symbol": "PAYO",
+    "expirationDate": "2023-11-17",
+    "strikePriceInCents": 500,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 499,
+  "optionPriceInCents": 75
+},
+{
+  "_id": {
+    "$oid": "64af02ea7d270fcf0cde329d"
+  },
+  "time": {
+    "$date": "2023-07-12T19:45:31.746Z"
+  },
+  "type": "LIGHTNING",
+  "contractKey": {
+    "symbol": "META",
+    "expirationDate": "2023-07-14",
+    "strikePriceInCents": 31500,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 30826,
+  "optionPriceInCents": 127
+},
+{
+  "_id": {
+    "$oid": "64af030c7d270fcf0cde330c"
+  },
+  "time": {
+    "$date": "2023-07-12T19:46:11.403Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "MRNA",
+    "expirationDate": "2024-01-19",
+    "strikePriceInCents": 22000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 12608,
+  "optionPriceInCents": 9405
+},
+{
+  "_id": {
+    "$oid": "64af03117d270fcf0cde3310"
+  },
+  "time": {
+    "$date": "2023-07-12T19:46:11.403Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "MRNA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 16000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 12608,
+  "optionPriceInCents": 3420
+},
+{
+  "_id": {
+    "$oid": "64af03167d270fcf0cde3313"
+  },
+  "time": {
+    "$date": "2023-07-12T19:46:11.403Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "MRNA",
+    "expirationDate": "2023-07-21",
+    "strikePriceInCents": 19500,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 12608,
+  "optionPriceInCents": 6920
+},
+{
+  "_id": {
+    "$oid": "64af03597d270fcf0cde33f1"
+  },
+  "time": {
+    "$date": "2023-07-12T19:47:28.001Z"
+  },
+  "type": "WHALE",
+  "contractKey": {
+    "symbol": "PANW",
+    "expirationDate": "2023-12-15",
+    "strikePriceInCents": 20000,
+    "contractType": "CALL"
+  },
+  "signal": "BULLISH",
+  "referencePriceInCents": 23334,
+  "optionPriceInCents": 4550
+},
+{
+  "_id": {
+    "$oid": "64af04997d270fcf0cde381e"
+  },
+  "time": {
+    "$date": "2023-07-12T19:52:46.013Z"
+  },
+  "type": "TURBO",
+  "contractKey": {
+    "symbol": "DRI",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 16000,
+    "contractType": "PUT"
+  },
+  "signal": "BEARISH",
+  "referencePriceInCents": 16689,
+  "optionPriceInCents": 125
+},
+{
+  "_id": {
+    "$oid": "64af052c7d270fcf0cde3a41"
+  },
+  "time": {
+    "$date": "2023-07-12T19:55:12.883Z"
+  },
+  "optionPriceInCents": 390,
+  "contractKey": {
+    "symbol": "RIVN",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 2750,
+    "contractType": "PUT"
+  },
+  "referencePriceInCents": 2591,
+  "signal": "BEARISH",
+  "type": "TURBO"
+},
+{
+  "_id": {
+    "$oid": "64af05897d270fcf0cde3b42"
+  },
+  "time": {
+    "$date": "2023-07-12T19:56:43.900Z"
+  },
+  "optionPriceInCents": 42,
+  "contractKey": {
+    "symbol": "FUBO",
+    "expirationDate": "2023-08-18",
+    "strikePriceInCents": 300,
+    "contractType": "PUT"
+  },
+  "referencePriceInCents": 299,
+  "signal": "BEARISH",
+  "type": "TURBO"
+}]

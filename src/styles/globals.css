@@ -27,14 +27,14 @@ body {
   background-color: rgb(21, 20, 20);
   color: white;
 }
-.MuiTableCell-root {
+body .MuiTableCell-root {
   border-bottom: #00374e solid 1px;
 }
 
-.css-qai666-MuiTable-root {
+body .css-qai666-MuiTable-root {
   min-width: auto !important;
 }
-.MuiTableHead-root {
+body .MuiTableHead-root {
   background-color: #002235;
 }
 
@@ -42,7 +42,7 @@ body .MuiTableCell-root {
   padding: 10px 16px;
   font-weight: 500;
 }
-.MuiChip-root,
+body .MuiChip-root,
 .css-gjv9n6-MuiChip-root {
   font-size: 0.75em;
   line-height: 1;
@@ -51,34 +51,34 @@ body .MuiTableCell-root {
   height: auto;
   padding: 5px 10px !important;
 }
-.MuiChip-root span,
+body .MuiChip-root span,
 .css-gjv9n6-MuiChip-root span {
   padding: 0px !important;
 }
-.css-1lymaxv-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+body .css-1lymaxv-MuiDataGrid-root .MuiDataGrid-withBorderColor {
   border-color: #353535 !important;
 }
-.css-1lymaxv-MuiDataGrid-root {
+body .css-1lymaxv-MuiDataGrid-root {
   border-color: #353535 !important;
 }
 
-.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+body .css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
   color: white !important;
 }
 
-.css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
+body .css-zylse7-MuiButtonBase-root-MuiIconButton-root.Mui-disabled {
   color: white !important;
 }
 
-.MuiSvgIcon-root {
+body .MuiSvgIcon-root {
   color: white !important;
 }
 
-.MuiSvgIcon-fontSizeMedium {
+body .MuiSvgIcon-fontSizeMedium {
   color: white !important;
 }
 
-.MuiTableSortLabel-root > svg {
+body .MuiTableSortLabel-root > svg {
   color: white !important;
 }
 
@@ -90,14 +90,14 @@ body .MuiTableCell-root {
 ::-webkit-scrollbar-track {
   background-color: #082835 !important;
 }
-.css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root {
+body .css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root {
   color: white !important;
 }
 
-.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+body .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
   border: 1px solid transparent !important;
 }
-.MuiOutlinedInput-root {
+body .MuiOutlinedInput-root {
   border-radius: 10px !important;
   padding: 0.5 !important;
 }
